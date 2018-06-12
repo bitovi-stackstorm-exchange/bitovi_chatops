@@ -1,0 +1,7 @@
+author: 'Bitovi, LLC'
+dependencies:
+  - https://github.com/bitovi-stackstorm-exchange/bitovi_packs
+description: 'Bitovi chatops enhancements'
+email: mick@bitovi.com
+name: bitovi_chatops
+version: 0.1.0
